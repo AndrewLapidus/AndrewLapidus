@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently looking for work as IT/Fullstack Sofware and Web Development
 <!--
 **URATACO/URATACO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--I'm currently working with T.E. to further my education 
+- 🔭 I’m currently working on mobile game development
+- 🌱 I’m currently learning C++ with Unreal Engine to make mobile games/applications
