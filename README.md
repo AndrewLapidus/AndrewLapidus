@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on mobile game development
 - 🌱 I’m currently learning C++ with Unreal Engine to make mobile games/applications
+- 💬 Tell me what you think of some of my recent projects, [click here to check it out.](https://andrewlapidus.github.io/)
